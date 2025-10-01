@@ -4,7 +4,7 @@ directly exposes some information and stuff about me to a API and WebSocket.
 ```
 GET https://api.example.com/{package}/{parameter}
 ```
-> not providing an parameter will return all parameters of the package and not providing a package will return everything from the api
+> not providing an parameter will return all parameters of the package and not providing a package will return all packages with all parameters
 
 | package | parameter | description                |
 | :------ | :-------- | :------------------------- |
