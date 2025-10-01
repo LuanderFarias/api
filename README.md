@@ -2,7 +2,7 @@
 
 directly exposes some information and stuff about me to a API and WebSocket.
 ```
-  GET https://api.example.com/{package}/{parameter}
+GET https://api.example.com/{package}/{parameter}
 ```
 > not providing an parameter will return all parameters of the package and not providing a package will return everything from the api
 
