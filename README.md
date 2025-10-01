@@ -15,6 +15,6 @@ GET https://api.example.com/{package}/{parameter}
 | location | weather | returns my current local weather |
 | location | location | shows location based on known places (home, wife's house, market, etc) |
 
-github, spotify, youtube and/or more coming soon, you can create your own stalker following [this]()
+> github, spotify, youtube and/or more coming soon, you can create your own stalker following [this]()
 
 create stuff.
