@@ -8,9 +8,13 @@ directly exposes some information and stuff about me to a API and WebSocket.
 
 | package | parameter | description                |
 | :------ | :-------- | :------------------------- |
-| personal | age | returns my age including seconds |
+| personal | age | returns my age |
+| personal | exact_age | returns my exact age including seconds |
 | location | city | returns my current city |
-| location | weather | returns my local weather |
+| location | time | returns my current local time |
+| location | weather | returns my current local weather |
 | location | location | shows location based on known places (home, wife's house, market, etc) |
 
-github, spotify, youtube and/or more coming soon
+github, spotify, youtube and/or more coming soon, you can create your own stalker following [this]() [readme not avaliable yet]
+
+create stuff.
